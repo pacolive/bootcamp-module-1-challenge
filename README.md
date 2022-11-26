@@ -9,9 +9,7 @@ This repository contains the Horiseon SEO website source files.
 
 ## The Website
 
-    ```md
-    ![Horiseon SEO Website](assets/images/01-html-css-git-challenge-demo.png)
-    ```
+![Horiseon SEO Website](assets/images/01-html-css-git-challenge-demo.png)
 
 
 ## Credits
